@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # 1. GitHub Actions の更新チェック
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly" # 毎週チェック
+
+  # 2. Python ライブラリ（requirements.txtなど）の更新チェック
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
