@@ -5,9 +5,3 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly" # 毎週チェック
-
-  # 2. Python ライブラリ（requirements.txtなど）の更新チェック
-  - package-ecosystem: "pip"
-    directory: "/"
-    schedule:
-      interval: "weekly"
