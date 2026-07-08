@@ -1,5 +1,11 @@
 [
   {
+    "title": "Summer at CERN",
+    "link": "https://news.utexas.edu/2026/07/07/summer-at-cern/",
+    "date": "July 7, 2026",
+    "id": "5062694e7433aa08223c5f8e41a378d9"
+  },
+  {
     "title": "Inside UT’s Quantum Ecosystem: From Breakthroughs to Possibilities",
     "link": "https://news.utexas.edu/2026/07/02/inside-uts-quantum-ecosystem-from-breakthroughs-to-possibilities/",
     "date": "July 2, 2026",
@@ -52,11 +58,5 @@
     "link": "https://cns.utexas.edu/news/accolades/three-cns-faculty-receive-ut-presidents-associates-undergraduate-teaching-excellence",
     "date": "April 2, 2026",
     "id": "3ce25e8d436855e6a4bf4a3697a4f61d"
-  },
-  {
-    "title": "Physicists Discover Long-Predicted ‘Clock Magnetism’ in an Atomically Thin Crystal",
-    "link": "https://cns.utexas.edu/news/research/physicists-discover-long-predicted-clock-magnetism-atomically-thin-crystal",
-    "date": "February 23, 2026",
-    "id": "bcb3c6eb1da3c6d0ce2b7427c5a40a82"
   }
 ]
