@@ -1,5 +1,11 @@
 [
   {
+    "title": "We Make Them Tougher in Texas",
+    "link": "https://physics.utexas.edu/news/features/we-make-them-tougher-texas",
+    "date": "September 8, 2026",
+    "id": "20b3fe073c87789f88fa9b467d1c5087"
+  },
+  {
     "title": "Did the LUX-ZEPLIN Experiment Detect a Dark Matter Particle?",
     "link": "https://cns.utexas.edu/news/research/did-lux-zeplin-experiment-detect-dark-matter-particle",
     "date": "September 1, 2026",
@@ -52,11 +58,5 @@
     "link": "https://cns.utexas.edu/news/announcements/university-texas-austin-named-among-best-global-universities",
     "date": "June 16, 2026",
     "id": "113b831253d93cf3a46699deddbf58b8"
-  },
-  {
-    "title": "Allan MacDonald Wins Kavli Prize in Nanoscience",
-    "link": "https://cns.utexas.edu/news/accolades/allan-macdonald-wins-kavli-prize-nanoscience",
-    "date": "June 10, 2026",
-    "id": "b879c9e79c22940492a05a9773227002"
   }
 ]
